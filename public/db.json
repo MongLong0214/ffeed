@@ -1,0 +1,124 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "프리츠한센",
+      "englishName": "Fritz Hansen",
+      "largeCategory": "chair",
+      "smallCategory": "diningChair",
+      "des": "앤트체어",
+      "engDes": "Ant chair",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/us/en/images/products/lerhamn-chair-black-brown-vittaryd-beige__0728160_pe736117_s5.jpg?f=s"
+    },
+    {
+      "id": 2,
+      "name": "게브르더 토넷 비엔나",
+      "englishName": "Vienna",
+      "largeCategory": "chair",
+      "smallCategory": "stool",
+      "des": "검정 의자",
+      "engDes": "Rack Chair",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/kr/ko/images/products/idolf-chair-black__0728147_pe736109_s5.jpg?f=s"
+    },
+    {
+      "id": 3,
+      "name": "에메코",
+      "englishName": "Emeco",
+      "largeCategory": "chair",
+      "smallCategory": "swivelChair",
+      "des": "허드슨 체어",
+      "engDes": "Hudson chair",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/kr/ko/images/products/adde-chair-black__0728277_pe736167_s5.jpg?f=s"
+    },
+    {
+      "id": 4,
+      "name": "카르텔",
+      "englishName": "Kartell",
+      "largeCategory": "chair",
+      "smallCategory": "stackingChair",
+      "des": "4870 체어",
+      "engDes": "4870 chair",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/jo/en/images/products/saerna-conference-chair-black-vissle-black__0967553_pe810189_s5.jpg?f=xxs"
+    },
+    {
+      "id": 5,
+      "name": "크루앙빈",
+      "englishName": "Khruangbin",
+      "largeCategory": "table",
+      "smallCategory": "sideTable",
+      "des": "사이드 테이블",
+      "engDes": "Side Table",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/us/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg?f=s"
+    },
+    {
+      "id": 6,
+      "name": "랭페라트리스",
+      "englishName": "Limpératrice",
+      "largeCategory": "table",
+      "smallCategory": "desk",
+      "des": "검정 테이블",
+      "engDes": "Black Table",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/au/en/images/products/lisabo-table-black__0737106_pe740884_s5.jpg?f=s"
+    },
+    {
+      "id": 7,
+      "name": "핑크 플로이드",
+      "englishName": "Pink Floyd",
+      "largeCategory": "table",
+      "smallCategory": "sideTable",
+      "des": "사이드 테이블",
+      "engDes": "Side Table",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/jp/en/images/products/sandsberg-table-black__1074348_pe856162_s5.jpg?f=s"
+    },
+    {
+      "id": 8,
+      "name": "본 아이버",
+      "englishName": "Bon Iver",
+      "largeCategory": "table",
+      "smallCategory": "desk",
+      "des": "테이블",
+      "engDes": "Table",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/kr/ko/images/products/sandsberg-underframe-for-table-top-black__1074344_pe856157_s5.jpg?f=s"
+    },
+    {
+      "id": 9,
+      "name": "선셋롤러코스터",
+      "englishName": "Sunset Rollercoaster",
+      "largeCategory": "armchair",
+      "smallCategory": "armchair",
+      "des": "그레이 암체어",
+      "engDes": "Gray Armchair",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/us/en/images/products/morabo-armchair-gunnared-dark-gray-wood__0602087_pe680155_s5.jpg?f=s"
+    },
+    {
+      "id": 10,
+      "name": "테임임팔라",
+      "englishName": "Tameimpala",
+      "largeCategory": "armchair",
+      "smallCategory": "armchair",
+      "des": "암체어",
+      "engDes": "Arm Chair",
+      "like": 1,
+      "bookMark": true,
+      "image": "https://www.ikea.com/ca/en/images/products/morabo-armchair-gunnared-light-green-wood__0602091_pe680160_s5.jpg?f=s"
+    }
+  ]
+}

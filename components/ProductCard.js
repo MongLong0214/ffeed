@@ -45,9 +45,6 @@ const ProductCardContainer = styled.div`
   flex-wrap: wrap;
   align-items: center;
   flex-direction: column;
-  /* width: 50%; */
-
-  /* background-color: yellow; */
 `;
 const ImgContainer = styled.img`
   width: 100%;
@@ -57,7 +54,6 @@ const NameContainer = styled.div`
   flex-direction: row;
   margin-top: 1rem;
   width: 100%;
-  /* background-color: gray; */
 `;
 const KorName = styled.div`
   font-size: 1.5rem;
@@ -71,7 +67,6 @@ const DesContainer = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  /* background-color: red; */
 `;
 const EngDes = styled.div`
   font-size: 1.2rem;
@@ -84,8 +79,6 @@ const KorDes = styled.div`
 const BtnContainer = styled.div`
   display: flex;
   flex-direction: row;
-  /* margin-top: 1rem; */
   width: 100%;
   margin-left: -1rem;
-  /* background-color: red; */
 `;

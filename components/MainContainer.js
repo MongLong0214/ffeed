@@ -19,9 +19,9 @@ const MainContainer = () => {
 
   const [btn, setBtn] = useState("");
 
-  const btnHandler = (event) => {
-    setBtn(event.target.id);
-  };
+  //   const btnHandler = (event) => {
+  //     setBtn(event.target.id);
+  //   };
 
   //   useEffect(() => {
   //     console.log("btn", btn);
@@ -180,7 +180,6 @@ const MainContainer = () => {
                     setEachData(
                       data.filter((item) => item.smallCategory == "diningChair")
                     );
-                    btnHandler(event);
                   }}
                 >
                   다이닝 체어
@@ -191,7 +190,6 @@ const MainContainer = () => {
                     setEachData(
                       data.filter((item) => item.smallCategory == "stool")
                     );
-                    btnHandler(event);
                   }}
                 >
                   벤치/스툴
@@ -202,7 +200,6 @@ const MainContainer = () => {
                     setEachData(
                       data.filter((item) => item.smallCategory == "swivelChair")
                     );
-                    btnHandler(event);
                   }}
                 >
                   스웨벨 체어
@@ -215,7 +212,6 @@ const MainContainer = () => {
                         (item) => item.smallCategory == "stackingChair"
                       )
                     );
-                    btnHandler(event);
                   }}
                 >
                   스태킹 체어
@@ -301,22 +297,18 @@ const BodyWrapper = styled.section`
 `;
 const BodyContainer = styled.section`
   margin: 0 2% 0 2%;
-  /* background-color: green; */
 `;
 
 const MainMenuWrapper = styled.div`
   height: 8vh;
   display: flex;
   padding-top: 2rem;
-  /* background-color: red; */
 `;
 const MainMenu = styled.div`
   font-size: 1.5rem;
   font-weight: bold;
   color: #2f2f2f;
   cursor: pointer;
-
-  /* background-color: yellow; */
   margin-right: 0.5rem;
 `;
 const MainMenuArrow = styled.div`
@@ -324,14 +316,12 @@ const MainMenuArrow = styled.div`
   height: 1.3rem;
   margin-top: 0.4rem;
   margin-right: 0.5rem;
-  /* background-color: gray; */
 `;
 
 const SubMenuWrapper = styled.div`
   height: 3.2rem;
   display: flex;
   flex-direction: row;
-  /* background-color: blue; */
 `;
 
 const SubMenu = styled.div`
@@ -339,10 +329,7 @@ const SubMenu = styled.div`
   font-weight: bold;
   color: #2f2f2f;
   cursor: pointer;
-
-  /* border-bottom: 3px solid black; */
-
-  /* background-color: yellow; */
+  border-bottom: 3px solid black;
   margin-right: 1rem;
 `;
 const SubMenu2 = styled.div`
@@ -350,14 +337,9 @@ const SubMenu2 = styled.div`
   font-weight: bold;
   color: #c3c3c3;
   cursor: pointer;
-
-  /* border-bottom: 3px solid black; */
-
-  /* background-color: yellow; */
   margin-right: 1rem;
 `;
 const ProductCardWrapper = styled.section`
-  /* background-color: gray; */
   display: flex;
   justify-content: space-around;
 `;
